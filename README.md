@@ -1,17 +1,14 @@
 ## Hi there 👋
 <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
 
-- 🌱 I’m currently studying ... linguistics @ [Osaka University](https://www.osaka-u.ac.jp/en)
+- 🌱 I’m currently studying linguistics @ [Osaka University](https://www.osaka-u.ac.jp/en)
   - Mathematical linguistics
   - Statistical Modeling
   - Bayesian statistics
 - 🔭 I’m currently working on ...
-  - pdf2zunda[private]()
-- 👯 I’m looking to collaborate on ...
-  - 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+  - pdf2zunda[private repository](https://github.com/fox-Nh133/pdf2zunda.git)
+  - Knowledge of Speech[YouTube](https://www.youtube.com/watch?v=49PoL1-JedU&list=PLafQpm76QJeTc1ZXnkiHEH0uCqrXIhQg1&pp=iAQB)
+- 👯 I’m looking to collaborate on Linguistic research with statistical data analysis
 <!--
 **Gitomochang/Gitomochang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
