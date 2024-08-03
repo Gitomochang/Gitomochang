@@ -1,5 +1,17 @@
 ## Hi there 👋
+<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
 
+- 🌱 I’m currently studying ... linguistics @ [Osaka University](https://www.osaka-u.ac.jp/en)
+  - Mathematical linguistics
+  - Statistical Modeling
+  - Bayesian statistics
+- 🔭 I’m currently working on ...
+  - pdf2zunda[private]()
+- 👯 I’m looking to collaborate on ...
+  - 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
 <!--
 **Gitomochang/Gitomochang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
