@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
+<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"><img src="https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=flat"><img src="https://img.shields.io/badge/-LabView-000000.svg?logo=labview&style=flat"><img src="https://img.shields.io/badge/-GAS-000000.svg?logo=googleappsscript&style=flat">
 
 - 🌱 I’m currently studying linguistics @ [Osaka University](https://www.osaka-u.ac.jp/en)
   - Mathematical linguistics
