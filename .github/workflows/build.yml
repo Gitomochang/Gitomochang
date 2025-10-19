@@ -3,7 +3,7 @@ name: Generate Work Page
 on:
   push:
     paths:
-      - "works.json"
+      - "works.jsonc"
       - "generate_work_html.js"
       - "template.html"
 
