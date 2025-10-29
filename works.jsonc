@@ -1,11 +1,24 @@
 [
   {
-    "title": "Linguistics Fest 2025",
+    "title": "Poster at Linguistics Festival 2025",
     "description": "A probabilistic perspective on relaxed 'so'",
     "tags": ["dyxis", "fuzzy-logic", "mathematical-linguistics"],
     "image": "/images/thumbnail_LingFes2025.png",
     "links": [
       { "label": "Ling. Fes. 2025", "url": "https://sites.google.com/view/lingfes2025" },
+      { "label": "GitHub", "url": "https://github.com/Gitomochang/NARITA_T_20250201_LingFes2025" }
+    ]
+  }
+]
+
+[
+  {
+    "title": "Poster at Linguistics Festival 2024",
+    "description": "Estimating Politeness Levels Using Correspondence Analysis",
+    "tags": ["correspondence-analysis", "politeness", "sociolinguistics"],
+    "image": "/images/thumbnail_LingFes2025.png",
+    "links": [
+      { "label": "Ling. Fes. 2024", "url": "https://sites.google.com/view/lingfes2024" },
       { "label": "GitHub", "url": "https://github.com/Gitomochang/NARITA_T_20250201_LingFes2025" }
     ]
   }
@@ -22,5 +35,6 @@ Operational tips:
 - Avoid excessive emojis or line breaks in description.
 - Use lowercase tags and limit to 3–5 per project.
 */
+
 
 
