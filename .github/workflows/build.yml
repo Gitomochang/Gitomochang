@@ -6,6 +6,7 @@ on:
       - "works.jsonc"
       - "generate_work_html.js"
       - "template.html"
+  workflow_dispatch:
 
 jobs:
   build:
