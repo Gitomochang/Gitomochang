@@ -9,9 +9,7 @@
       { "label": "GitHub", "url": "https://github.com/Gitomochang/NARITA_T_20250201_LingFes2025" }
     ]
   }
-]
 
-[
   {
     "title": "Poster at Linguistics Festival 2024",
     "description": "Estimating Politeness Levels Using Correspondence Analysis",
@@ -23,7 +21,6 @@
     ]
   }
 ]
-
 // Work items configuration for Masaya Narita's portfolio
 // Each object represents one prototype or product.
 // Fields: title, description, tags, image, links (array of label + url)
@@ -35,6 +32,7 @@ Operational tips:
 - Avoid excessive emojis or line breaks in description.
 - Use lowercase tags and limit to 3–5 per project.
 */
+
 
 
 
